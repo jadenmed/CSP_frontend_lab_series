@@ -11,5 +11,13 @@ console.log(typeof mystery);
 let jadenTylerMedina;
 
 
-let age = 16;
+let age = 17 ;
 console.log("I am " + age + " years old");
+console.log('I am ${age} years old')
+
+
+let area = width * height;
+
+let perimeter = 2 * (width + height);
+
+console.log("The perimeter is: " + perimeter);
