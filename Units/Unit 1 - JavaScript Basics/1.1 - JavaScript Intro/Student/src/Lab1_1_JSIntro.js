@@ -21,3 +21,4 @@ let area = width * height;
 let perimeter = 2 * (width + height);
 
 console.log("The perimeter is: " + perimeter);
+ 
