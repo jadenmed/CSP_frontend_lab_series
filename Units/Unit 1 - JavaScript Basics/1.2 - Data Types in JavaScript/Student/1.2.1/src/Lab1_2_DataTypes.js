@@ -55,7 +55,7 @@ score += 10 ; console.log("After += 10 ->", score)
 score -= 5; console.log("After -= 5 ->", score)
 score *= 2 ; console.log("After *= 2 ->", score)
 score/=5 ; console.log("After /= 5 ->", score)
-score%=3; console.log("After %= 3 ->", score)
+score%=3; console.log("After = 3 ->", score)
 
 console.log("=== TODO 4: Operator Precedence ===")
 const p1 = 5 + 3 * 2
