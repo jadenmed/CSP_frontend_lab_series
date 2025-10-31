@@ -23,7 +23,6 @@ const numberFive = 5
 console.log('"5" + 5 =', textFive + numberFive) // string concatenation -> "55"
 console.log("5 + 5 =", numberFive + numberFive) // normal addition -> 10
 
-// TODO 4: Explicit conversions using Number(), String(), Boolean()
 const shoeSize = "9"
 console.log('Number("9") =', Number(shoeSize))
 console.log("String(123) =", String(123))
