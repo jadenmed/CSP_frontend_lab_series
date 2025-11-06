@@ -31,6 +31,7 @@ city = "Miami";
 console.log("city (updated):", city);
 
 // TODO 5: Immutability
+
 // - Create word = "hello"
 // - Try word[0] = "H", print word
 // - Reassign word = "Hello" and print again
