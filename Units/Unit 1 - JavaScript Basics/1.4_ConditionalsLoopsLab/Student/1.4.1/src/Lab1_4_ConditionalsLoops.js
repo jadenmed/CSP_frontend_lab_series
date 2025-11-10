@@ -10,7 +10,7 @@ if (age <= 16) {
 } else if (age >= 65) {
   console.log("Senior discount");
 } else {
-  console.log("No discount");
+  console.log(" No discount");
 }
 
 // TODO 2: Nested if with two numbers
