@@ -5,14 +5,36 @@
 // TODO 1: Introduce Yourself
 // - Print your name, age, and favorite food using variables (let + const)
 
+let name ="Jaden";
+const age = 17;
+let favoriteFood = "Pizza";
+
+console.log('Name : ' + age);
+console.log('Age : ' + favoriteFood);
 // TODO 2: Number Practice
 // - Create two numbers and perform arithmetic operations
 // - Addition, subtraction, multiplication, division, exponentiation, modulo
+let num1 = 10;
+let num2 = 3;
+
+console.log("Multiplication: " + (num1 * num2));
+console.log("Addition: " + (num1 + num2));
+console.log("Division: " + (num1 / num2));
+console.log("Subtraction: " + (num1 - num2));
+
+// done
 
 // TODO 3: Boolean Logic
 // - Create two booleans (isStudent, hasLicense)
 // - Print results of &&, ||, !
 
+let isStudent = true;
+let hasLicense = false;
+console.log("AND: " + ( isStudent && hasLicense));
+console.log("OR: ' + ( isStudent || hasLicense));")
+console.log("NOT isStudent: " + (!isStudent))
+
+// done
 // TODO 4: Null & Undefined
 // - Declare a variable without assigning (undefined)
 // - Create a variable with null
